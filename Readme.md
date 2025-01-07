@@ -11,8 +11,7 @@ Cuando pulsemos, se nos descargará una carpeta comprimida (extensión .zip), la
                 <li>0.2. Título</li>
 Muestra el tituto del software
                 <li>0.3. Menú principal</li>
-                ![]Captura de pantalla 2025-01-07 185301.png
-Finaliza el software
+Nos muestra un listado con tres opciones para iniciar sesion o registrarse
             </ul>
         </li>
         <li>1. Iniciar Sesion y Registro de un nuevo cliente
