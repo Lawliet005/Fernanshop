@@ -3,7 +3,11 @@
         <li>0. Introducción
             <ul>
                 <li>0.0. Instalación</li>
+Para poder ejecutar el programa debemos instalar el JDK 23.0.1, cuando le des clic, se te instalará (debemos de verificar que esté en C:\Program Files\Java).
+Después iremos al buscador de Windows, buscaremos "Editar las variables de entorno del sistema". Pulsaremos donde dice "variables de entorno", dentro, nos digiramos a "variables del sistema", seleccionamos "Path" y le damos a editar. Se abrirá la siguiente ventana, clicáremos en la variable de Java e introducimos la siguiente la ruta (C:\Program Files\Java\jdk-18.0.2.1\bin), le damos a enter para confirmar y aceptar. Descargamos del enlace a GitHub el archivo .zip, creamos una carpeta en C con el nombre que queramos e introducimos el archivo .zip que hemos descargado, lo descomprimimos y abrimos la carpeta resultante, nos metemos en src y clicamos en el ejecutable y el programa comenzará a funcionar.
                 <li>0.1. Descarga</li>
+Para poder utilizar este programa, deberemos de darle al botón verde en GitHub que dice "code", en este seleccionaremos la opción en la parte inferior que dice "Download zip".
+Cuando pulsemos, se nos descargará una carpeta comprimida (extensión .zip), la descomprimiremos y dentro le daremos doble clic derecho al archivo de extensión .bat. Este será el ejecutable que nos servirá para usar el programa.
                 <li>0.2. Título</li>
                 <li>0.3. Menú principal</li>
             </ul>
