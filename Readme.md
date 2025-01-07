@@ -15,7 +15,7 @@ Finaliza el software
             </ul>
         </li>
         <li>1. Iniciar Sesion y Registro de un nuevo cliente
-            ![image](https://github.com/user-attachments/assets/57303207-1993-4792-9fc1-796c8be4fa72)
+            <img 
             <ul>
                 <li>1.1. Formulario de registro</li>
                 
