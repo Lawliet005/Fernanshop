@@ -9,12 +9,16 @@ Después iremos al buscador de Windows, buscaremos "Editar las variables de ento
 Para poder utilizar este programa, deberemos de darle al botón verde en GitHub que dice "code", en este seleccionaremos la opción en la parte inferior que dice "Download zip".
 Cuando pulsemos, se nos descargará una carpeta comprimida (extensión .zip), la descomprimiremos y dentro le daremos doble clic derecho al archivo de extensión .bat. Este será el ejecutable que nos servirá para usar el programa.
                 <li>0.2. Título</li>
+Muestra el tituto del software
                 <li>0.3. Menú principal</li>
+Finaliza el software
             </ul>
         </li>
-        <li>1. Registro de un nuevo cliente y opciones
+        <li>1. Iniciar Sesion y Registro de un nuevo cliente
+            ![image](https://github.com/user-attachments/assets/57303207-1993-4792-9fc1-796c8be4fa72)
             <ul>
                 <li>1.1. Formulario de registro</li>
+                
                 <li>1.2. Menú de opciones del cliente</li>
                 <li>1.3. Consultar catálogo</li>
                 <li>1.4. Realizar un pedido</li>
